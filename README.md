@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Fayaz-7
+- 👋 Hi, I’m Fayaz
 - 👀 I’m interested in developing cool software.
 - 🌱 I’m currently learning React.
 - 💞️ I’m looking to collaborate on the cool new feature you are building.
